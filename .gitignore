@@ -43,7 +43,14 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 
+
 # keras models
 /lib/models/best_model.keras
 /lib/models/test.keras
+*.keras
+
+# PyTorch models
+/lib/models/Binary_classifier_ResNet18.pth
+/lib/models/resnet34_plant_classifier.pth
+*.pth
 
