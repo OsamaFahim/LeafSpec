@@ -6,7 +6,7 @@ LeafSpec is an intelligent mobile application that uses deep learning to identif
 
 - **Binary Classification**: First determines if the image contains a leaf
 - **Species Identification**: Identifies the specific plant species from 39+ supported species
-- **Real-time Processing**: Fast API-powered classification
+- **Real-time Processing**: Flask API-powered classification
 - **User Management**: Secure user registration and authentication
 - **Mobile-Ready**: Cross-platform mobile application
 - **Cloud Deployment**: Scalable model deployment using Modelbit
